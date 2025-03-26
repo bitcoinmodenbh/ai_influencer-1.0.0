@@ -23,7 +23,7 @@ A Python application that automatically manages a personal account on platform X
 
 1. Clone the repository or download the source code:
    ```
-   git clone https://github.com/yourusername/ai_influencer.git
+   https://github.com/bitcoinmodenbh/ai_influencer-1.0.0.git
    cd ai_influencer
    ```
 
